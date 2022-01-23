@@ -1,2 +1,3 @@
 touch user name.txt
 notepad username.txt
+ramoji.txt
